@@ -1,0 +1,6 @@
+# Ignore compiled executables
+*.exe
+*.o
+
+# VS Code
+.vscode/
